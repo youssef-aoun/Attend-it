@@ -1,4 +1,3 @@
-export const local_host = "http://192.168.1.195:8080/";
 export const upcoming_events_pageable_api =
   local_host + "events/upcoming-events-paging?page=0";
 export const events_images = local_host + "images";
