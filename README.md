@@ -20,8 +20,6 @@
 <h5><b><i>Authentication:</i></b> JSON Web Tokens (JWT)</h5>
 <h5><b><i>Notifications (under-development):</i></b> Firebase Cloud Messaging (FCM)</h5>
 <br>
-<h3>Project Report</h3>
-<h5>The detailed report for this project can be found here: <a href="https://cryptothrift1-my.sharepoint.com/personal/youssef_aoun_bitify_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoussef%5Faoun%5Fbitify%5Fcom%2FDocuments%2FDesktop%2FUni%20stuff%2FISD%2FEvent%20Management%20System%20Report%2Epdf&parent=%2Fpersonal%2Fyoussef%5Faoun%5Fbitify%5Fcom%2FDocuments%2FDesktop%2FUni%20stuff%2FISD&ga=1">Report</a></h5><br>
-<h3><b>License:</b></h3><h5>Attend'It is licensed under the <a href="https://github.com/youssef-aoun/Attend-it/blob/master/LICENSE">MIT License</a>.
-</h5>
+<h3><b>License:</b></h3> Attend'It is licensed under the <a href="https://github.com/youssef-aoun/Attend-it/blob/master/LICENSE">MIT License</a>.
+</h3>
 
